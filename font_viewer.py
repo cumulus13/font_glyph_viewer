@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
+
 # File: font_viewer.py
+# Author: Hadi Cahyadi <cumulus13@gmail.com>
+# Date: 2026-09-01
 # Description: Cross-Platform System Font Inspector & Previewer with Enter-to-Copy
 # License: MIT
+
 
 import sys
 import os

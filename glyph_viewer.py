@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
+
 # File: glyph_viewer.py
+# Author: Hadi Cahyadi <cumulus13@gmail.com>
+# Date: 2026-09-01
 # Description: Paginated Nerd Font PUA Glyph Inspector with Unified FontViewer-style Shortcuts
 # License: MIT
 

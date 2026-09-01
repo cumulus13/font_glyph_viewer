@@ -1,5 +1,10 @@
 # Font and Glyph Viewers
 
+[![Screenshot](https://raw.githubusercontent.com/cumulus13/font_glyph_viewer/master/font_viewer.png)](https://raw.githubusercontent.com/cumulus13/font_glyph_viewer/master/font_viewer.png)
+
+[![Screenshot](https://raw.githubusercontent.com/cumulus13/font_glyph_viewer/master/glyph_viewer.png)](https://raw.githubusercontent.com/cumulus13/font_glyph_viewer/master/glyph_viewer.png)
+
+
 If lot of square boxes showed because the Private Use Area range (e000 to f8ff) contains thousands of code slots, but font designers only fill a fraction of them. The empty boxes represent unassigned slots where no icon exists in that font file.
 
 To look at dense, active blocks of icons without scrolling through empty gaps, adjust the range inside your glyph_viewer.ini configuration file (default path is based on your platform/os):
