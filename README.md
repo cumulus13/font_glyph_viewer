@@ -14,6 +14,7 @@ To look at dense, active blocks of icons without scrolling through empty gaps, a
 
 ## Requirements
 
+- PyQt5
 - NerfFont (meslo), just googling ... 
 
 
